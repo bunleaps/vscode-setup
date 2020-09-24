@@ -9,4 +9,4 @@ My Configuration, extensions and settings for **VS Code**. ⚙️
    - Font Size: `14`
   
 ## Extensions
-
+1. Live Server
